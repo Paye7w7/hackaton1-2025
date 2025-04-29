@@ -3,7 +3,7 @@
 
 // Configuración de la base de datos
 $host = 'localhost'; // Cambia esto si tu base de datos está en otro servidor
-$dbname = 'nombre_de_tu_base_de_datos'; // Reemplaza con el nombre de tu base de datos
+$dbname = 'centroEsp'; // Reemplaza con el nombre de tu base de datos
 $username = 'root'; // Reemplaza con tu usuario de la base de datos
 $password = '13246579801coco'; // Reemplaza con tu contraseña
 
